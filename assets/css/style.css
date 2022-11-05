@@ -59,9 +59,17 @@ body{
     height: 100%;
     position: absolute;
     z-index: 1;
+    color:#fff;
 }
 
-.audio{
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     height: 100%;
     width: 100%;
+}
+.audio{
+    margin:50px;
 }
