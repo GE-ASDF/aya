@@ -60,3 +60,8 @@ body{
     position: absolute;
     z-index: 1;
 }
+
+.audio{
+    height: 100%;
+    width: 100%;
+}
